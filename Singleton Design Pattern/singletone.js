@@ -1,4 +1,5 @@
-let Singletone = (function (){
+/*
+let Singleton = (function (){
     let fruit;
 
     function createFruit(){
@@ -14,4 +15,4 @@ let Singletone = (function (){
             return fruit;
         }
     };
-})();
+})();*/
